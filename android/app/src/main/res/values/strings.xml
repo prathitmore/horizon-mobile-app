@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Orivex</string>
+    <string name="title_activity_main">Orivex</string>
+    <string name="package_name">com.horizon.app</string>
+    <string name="custom_url_scheme">com.horizon.app</string>
+</resources>

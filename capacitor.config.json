@@ -1,0 +1,11 @@
+{
+    "appId": "com.horizon.app",
+    "appName": "Orivex",
+    "webDir": "www",
+    "bundledWebRuntime": false,
+    "plugins": {
+        "CapacitorHttp": {
+            "enabled": true
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "com.horizon.app",
+    "displayName": "Orivex Horizon",
+    "version": "1.0.0",
+    "description": "Orivex Horizon Mobile App",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@capacitor/android": "^8.1.0",
+        "@capacitor/cli": "^8.1.0",
+        "@capacitor/core": "^8.1.0"
+    },
+    "devDependencies": {
+        "@capacitor/assets": "^3.0.5"
+    }
+}

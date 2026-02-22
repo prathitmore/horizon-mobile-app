@@ -1,0 +1,21 @@
+{
+    "name": "Orivex Horizon",
+    "short_name": "Orivex",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#121212",
+    "theme_color": "#4A90E2",
+    "description": "Horizon Astronomical Society Platform",
+    "icons": [
+        {
+            "src": "assets/icon_192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/icon_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
